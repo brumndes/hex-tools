@@ -1,1 +1,1 @@
-Boom!
+ECHO est  ativado.
