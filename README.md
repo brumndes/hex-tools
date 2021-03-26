@@ -1,1 +1,1 @@
-ECHO est  ativado.
+Starting to code today, so cool
